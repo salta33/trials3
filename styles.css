@@ -1,15 +1,13 @@
 @media screen and (min-width: 480px) {
-    body {
-      background-color: lightgreen;
-    }
+  body {
+    background-color: lightgreen;
   }
+}
 
-  #header{
-    position: fixed;
-  }
+#header{
+  position: fixed;
+}
 
-  #welcome-section{
-  background-color: #be3144;
-  }
-
-
+#welcome-section{
+background-color: #be3144;
+}
