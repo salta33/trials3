@@ -7,20 +7,9 @@
   header{
     display: flex;
     position: fixed;
-    width: 100%;
-    background: #be3144;
-    box-shadow: 0 2px 0 rgb(0 0 0 / 40%);
-    z-index: 10;
-    justify-content: flex-end;
-    top: 0;
-    left: 0;
-    height: 50px;
   }
 
-  #navbar{
-    
-    
-    /* position: fixed; */
-   
-    
+  #welcome-section{
+  background-color: #be3144;
   }
+
